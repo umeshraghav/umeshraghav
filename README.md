@@ -24,7 +24,7 @@ I am a fullstack software engineer from Aligarh U.P
 <img align="left" alt="express" src="https://img.shields.io/badge/express-%230077B5.svg?&style=for-the-badge&logo=express&logoColor=white" />
 
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="mongo" src="https://img.shields.io/badge/mongodb-%13AA52.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="mongo" src="https://img.shields.io/badge/mongodb-%2343853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
  
 
 <br>
