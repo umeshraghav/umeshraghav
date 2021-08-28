@@ -1,8 +1,8 @@
 ### Hello World 👋
-I am a fullstack software engineer from Aligarh U.P 
+I am a software engineer based in Pune Maharashtra.  
 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Looking for new opportunities in Tech space.
+- 🔭 Working on front end using React.
+ 
 <br>
 
 ## Connect with me
